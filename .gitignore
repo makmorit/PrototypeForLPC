@@ -1,3 +1,10 @@
 # LPCexpresso
 Blinky/Debug/*
 .metadata/*
+
+# EAGLE
+*.epf
+
+*.b#*
+*.s#*
+*.l#*
