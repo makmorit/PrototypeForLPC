@@ -1,6 +1,7 @@
 # LPCexpresso
-Blinky/Debug/*
 .metadata/*
+Blinky/Debug/*
+UART/Debug/*
 
 # EAGLE
 *.epf
@@ -8,3 +9,4 @@ Blinky/Debug/*
 *.b#*
 *.s#*
 *.l#*
+
