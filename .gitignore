@@ -1,7 +1,7 @@
 # LPCexpresso
 .metadata/*
-Blinky/Debug/*
-UART/Debug/*
+LPC810_Blinky/Debug/*
+LPC810_UART/Debug/*
 
 # EAGLE
 *.epf
