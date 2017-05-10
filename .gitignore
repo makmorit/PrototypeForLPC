@@ -2,6 +2,7 @@
 .metadata/*
 LPC810_Blinky/Debug/*
 LPC810_UART/Debug/*
+LPC810_I2C/Debug/*
 
 # EAGLE
 *.epf
